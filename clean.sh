@@ -1,0 +1,1 @@
+rm lex.* y.* mycompiler

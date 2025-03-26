@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+# Lex and yacc compile output
+*.tab.c
+*.tab.h
+lex.*
+mycompiler
