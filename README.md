@@ -22,6 +22,13 @@ git clone https://github.com/aerocyber/cd-project
 
 This project is VERY minimal to the point that no programs other than the test/test.c is guaranteed to compile. This compiler is VERY minimal and supposed to be treated as a proof of concept.
 
+## Build Requirements
+The following dependencies are required for building the project
+- clang
+- LLVM 19
+- flex
+- yacc
+
 ## Build Instructions
 If building for the first time,
 
